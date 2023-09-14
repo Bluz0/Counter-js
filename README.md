@@ -1,5 +1,5 @@
 ﻿# Counter-js
 
-![counter](image/one.png)
-![add](image/add.png)
-![remove](image/rem.png)
+![counter](one.png)
+![add](add.png)
+![remove](rem.png)
